@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>467373754147-9ejlsjojgknun3ace9ml3vhhb7rn9eg2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDW8h5C_PbdbvFfeXLGr4EjI9lTe7shH04</string>
+	<key>GCM_SENDER_ID</key>
+	<string>467373754147</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sbj.acsa</string>
+	<key>PROJECT_ID</key>
+	<string>school-d09aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>school-d09aa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:467373754147:ios:98b59d8c886a5ef5546e96</string>
+	<key>DATABASE_URL</key>
+	<string>https://school-d09aa.firebaseio.com</string>
+</dict>
+</plist>
